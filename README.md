@@ -30,6 +30,3 @@
 ### **Conclusion**
 The "Hello World" program may be simple, but it serves as the gateway to the world of programming. It teaches basic concepts that are foundational for future learning and gives beginners a hands-on understanding of how Java programs are structured and executed. The significance of this program lies in its simplicity and its role in building confidence in new learners, helping them take their first steps toward mastering Java programming.
 
----
-
-This will provide a strong explanation of the importance of the "Hello World" program in your writing.
